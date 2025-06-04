@@ -11,7 +11,8 @@ I’m a Computer Engineering student passionate about **Cloud Security** and **I
 ## 📌 Featured Projects
 
 - 🧱 [Virtual Machine (C++)](https://github.com/SteliosSpanos/Virtual-Machine)
-- 🌐 [TCP/IP Stack from Scratch (WIP)](https://github.com/yourusername/tcp-ip-stack)
+- 🌐 [Server/Client (C++)](https://github.com/SteliosSpanos/Server-Client)
+- ✍️ [University Registry System (C++)](https://github.com/SteliosSpanos/University-Managment-System)
 
 ---
 
