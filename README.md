@@ -18,6 +18,6 @@ I’m a Computer Engineering student passionate about **Cloud Security** and **I
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/stylianos-spanos-41a113368/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/stylianos-spanos/)
 - 📧 Email: stylspan19@gmail.com
 
