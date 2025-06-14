@@ -13,6 +13,7 @@ I’m a Computer Engineering student passionate about **Cloud**, **Security** an
 - 🧱 [Virtual Machine (C++)](https://github.com/SteliosSpanos/Virtual-Machine)
 - 🌐 [Server/Client (C++)](https://github.com/SteliosSpanos/Server-Client)
 - ✍️ [University Registry System (C++)](https://github.com/SteliosSpanos/University-Managment-System)
+- 🗺️ [Maze Adventure Simualtion (C++)](https://github.com/SteliosSpanos/Maze-Adventure)
 
 ---
 
