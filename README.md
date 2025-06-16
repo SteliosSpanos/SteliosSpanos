@@ -3,8 +3,8 @@
 I’m a Computer Engineering student passionate about **Cloud**, **Security** and **IoT**.
 
 - 🎓 Studying at University of West Attica
-- 🌩️ Focused on becoming a **Cloud Security / IoT Engineer**
-- 🧠 Currently learning: networking, Linux, microcontrollers(Arduino, C/C++)
+- 🌩️ Focused on becoming a **Cloud / AI Engineer**
+- 🧠 Currently learning: networking, Linux
 
 ---
 
