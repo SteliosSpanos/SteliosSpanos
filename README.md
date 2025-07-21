@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Stelios!
 
-I’m a Computer Engineering student passionate about **Cloud**, **Security** and **AI**.
+I’m a Computer Engineering student passionate about **Cloud** and **AI**.
 
 - 🎓 Studying at University of West Attica
 - 🌩️ Focused on becoming a **Cloud / AI Engineer**
