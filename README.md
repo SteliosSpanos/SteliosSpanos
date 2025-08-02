@@ -18,4 +18,4 @@
 
 ### 📢 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stylianos-spanos) — Building in public, posting proj
+- 💼 [LinkedIn](https://www.linkedin.com/in/stylianos-spanos) — Building in public, posting projects
