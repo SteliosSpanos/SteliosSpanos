@@ -1,10 +1,16 @@
-<h1 align="center">Hey there 👋 I'm Stelios — CS Student, Automation Dev & SaaS Builder</h1>
+<h1 align="center">Hey there 👋 I'm Stelios — CS Student with passion for software engineering</h1>
 
 <p align="center">
   🎓 Studying Computer Engineering & Informatics @ University of West Attica<br>
-  ⚙️ Building automation tools with <strong>n8n</strong><br>
+  ⚙️ Building personal projects in my free time<br>
   🧠 Passionate about bridging theory and real-world code
 </p>
+
+---
+
+### 🚀Projects
+
+- **AI Commit Generator:** AI-powered git hook that automatically generates conventional commit messages by analyzing your staged changes
 
 ---
 
