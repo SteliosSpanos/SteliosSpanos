@@ -10,7 +10,7 @@
 
 ### 🚀Projects
 
-- **AI Commit Generator:** AI-powered git hook that automatically generates conventional commit messages by analyzing your staged changes[ai-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator)
+- **[AI-Commit-Generator](https://github.com/SteliosSpanos/ai-commit-generator):** AI-powered git hook that automatically generates conventional commit messages by analyzing your staged changes
 
 ---
 
