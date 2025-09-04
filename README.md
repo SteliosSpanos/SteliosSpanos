@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Stelios — CS Student with a passion for software engineering</h1>
+<h1 align="center">Hey there 👋 I'm Stelios — a CS Student with a passion for software engineering</h1>
 
 <p align="center">
   🎓 Studying Computer Engineering & Informatics @ University of West Attica<br>
