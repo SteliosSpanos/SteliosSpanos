@@ -11,6 +11,7 @@
 ### 🚀Projects
 
 - **[AI-Commit-Generator](https://github.com/SteliosSpanos/ai-commit-generator):** AI-powered git hook that automatically generates conventional commit messages by analyzing your staged changes
+- **[Regex-AI](https://github.com/SteliosSpanos/regex-ai)**: AI-powered tool that converts English descriptions to regex patterns
 
 ---
 
