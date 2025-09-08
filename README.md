@@ -1,10 +1,8 @@
 <h1 align="center">Hey there 👋 I'm Stelios — a CS Student with a passion for software engineering</h1>
 
-<p align="center">
   🎓 Studying Computer Engineering & Informatics @ University of West Attica<br>
   ⚙️ Building personal projects in my free time<br>
   🧠 Passionate about bridging theory and real-world code
-</p>
 
 ---
 
