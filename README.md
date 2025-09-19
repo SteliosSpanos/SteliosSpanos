@@ -1,6 +1,9 @@
 # Hey there 👋 I'm Stelios — a CS Student with a passion for cloud, networks and security
 
-## 💫 About Me<br><br>🎓 Studying Computer Engineering & Informatics @ University of West Attica<br>⚙️ Building personal projects in my free time<br>🧠 Passionate about bridging theory and real-world applications 
+## 💫 About Me
+- 🎓 Studying Computer Engineering & Informatics @ University of West Attica
+- ⚙️ Building personal projects in my free time
+- 🧠 Passionate about bridging theory and real-world applications 
 
 
 ## 🌐 Socials:
