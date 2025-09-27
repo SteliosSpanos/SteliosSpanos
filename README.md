@@ -3,10 +3,14 @@
 ## 💫 About Me
 - 🎓 Studying Computer Engineering & Informatics @ University of West Attica
 - ⚙️ Building personal projects in my free time
-- 🧠 Passionate about bridging theory and real-world applications 
+- 🧠 Passionate about bridging theory and real-world applications
+
+## 🛠 Projects
+- [Regex-AI](https://github.com/SteliosSpanos/regex-ai):
+- []
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stylianos-spanos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stylspan19@gmail.com) 
 
 
