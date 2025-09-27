@@ -6,8 +6,8 @@
 - 🧠 Passionate about bridging theory and real-world applications
 
 ## 🛠 Projects
-- [Regex-AI](https://github.com/SteliosSpanos/regex-ai): CLI tool that converts English descriptions to regex patterns using AI
-- [AI-commit-generator](https://SteliosSpanos/ai-commit-generator): 
+- [Regex-AI](https://github.com/SteliosSpanos/regex-ai):  CLI tool that converts English descriptions to regex patterns using AI
+- [AI-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator):  Tool that analyzes your staged changes and creates meaningful commit messages following the Conventional Commits specification. 
 
 
 ## 🌐 Socials
