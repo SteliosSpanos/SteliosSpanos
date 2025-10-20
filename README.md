@@ -6,6 +6,7 @@
 - Passionate about bridging theory and real-world applications
 
 ## Projects
+- [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track.
 - [Regex-AI](https://github.com/SteliosSpanos/regex-ai):  CLI tool that converts English descriptions to regex patterns using AI
 - [AI-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator):  Tool that analyzes your staged changes and creates meaningful commit messages following the Conventional Commits specification
 - [File-Organizer](https://github.com/SteliosSpanos/file-organizer): Bash script that organizes files into subfolders based on their extension
