@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Stelios — a CS Student with a passion for cloud, automation and security
+# Hey there 👋 I'm Stelios — a CS Student with a passion for cloud, automation and IoT
 
 ## About Me
 - Studying Computer Engineering & Informatics @ University of West Attica
