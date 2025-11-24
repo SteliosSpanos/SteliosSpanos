@@ -9,7 +9,7 @@
 - [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
 - [Regex-AI](https://github.com/SteliosSpanos/regex-ai):  CLI tool that converts English descriptions to regex patterns using AI (Python)
 - [AI-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator):  Tool that analyzes your staged changes and creates meaningful commit messages following the Conventional Commits specification (Python)
-- [Process-Management-Simulation](https;//github.com/SteliosSpanos/process-management-sim): A C-based operating system simulation that implements process creation, memory management and scheduling using dynamically managed linked-list queues. (C)
+- [Process-Management-Simulation](https://github.com/SteliosSpanos/process-management-sim): A C-based operating system simulation that implements process creation, memory management and scheduling using dynamically managed linked-list queues. (C)
 
 
 ## Socials
