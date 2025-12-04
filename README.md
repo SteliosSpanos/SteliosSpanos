@@ -6,8 +6,8 @@
 - Passionate about bridging theory and real-world applications
 
 ## Projects
-- [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
 - [AWS-Cloud-Projects](https://github.com/SteliosSpanos/cloud-engineering-AWS): A repo that shows my journey and improvement in cloud technologies. It includes every AWS project that i did along with full documentation for each. (AWS)
+- [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
 - [Regex-AI](https://github.com/SteliosSpanos/regex-ai):  CLI tool that converts English descriptions to regex patterns using AI. (Python)
 - [AI-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator):  Tool that analyzes your staged changes and creates meaningful commit messages following the Conventional Commits specification. (Python)
 
