@@ -10,8 +10,6 @@
 - [AWS-Cloud-Projects](https://github.com/SteliosSpanos/cloud-engineering-AWS): A repo that shows my journey and improvement in cloud technologies. It includes every AWS project that i did along with full documentation for each. (AWS)
 - [Regex-AI](https://github.com/SteliosSpanos/regex-ai):  CLI tool that converts English descriptions to regex patterns using AI. (Python)
 - [AI-commit-generator](https://github.com/SteliosSpanos/ai-commit-generator):  Tool that analyzes your staged changes and creates meaningful commit messages following the Conventional Commits specification. (Python)
-- [Process-Management-Simulation](https://github.com/SteliosSpanos/process-management-sim): A C-based operating system simulation that implements process creation, memory management and scheduling using dynamically managed linked-list queues. (C)
-
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stylianos-spanos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stylspan19@gmail.com) 
