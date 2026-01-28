@@ -8,8 +8,7 @@
 ## Projects
 - [AWS-Cloud-Projects](https://github.com/SteliosSpanos/cloud-engineering-AWS): A repo that shows my journey and improvement in cloud technologies. It includes every AWS project that i did along with full documentation for each. (AWS)
 - [Mini Content-Addressable-Storage](https://github.com/SteliosSpanos/mini-CAS): A content-addressable storage (CAS) system inspired by CVMFS. Mini-CAS stores files by their SHA-256 hash rather than their original path, enabling automatic deduplication, efficient storage management and verification with merkle trees. (Golang / Docker / SQLite)
-- [Mygit](https://github.com/SteliosSpanos/mygit): Git-like version control system implementation in Go, demonstrating the core concepts and internal architecture of Git. (Golang)
-- [CLI To-Do-List](https://github.com/SteliosSpanos/cli-to-do-list): A command-line task management application written in Go that provides a simple and efficient way to manage your daily tasks through terminal commands. (Golang)
+- [Pocket-Git](https://github.com/SteliosSpanos/pocket-git): Git-like version control system implementation in C++, demonstrating the core concepts and internal architecture of Git. (C++)
 - [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
 - [Networking-Projects](https://github.com/SteliosSpanos/networking-projects): A collection of networking projects that contain programs and labs. (C/Python/Bash)
 
