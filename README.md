@@ -6,7 +6,6 @@
 - Passionate about bridging theory and real-world applications
 
 ## Projects
-- [Homelab](https://github.com/SteliosSpanos/cloud-engineering-AWS/homelab): The homelab creates a secure, cost-optimized AWS environment that includes Terraform for infrastructure as code, VPC networking with public and private subnets, EC2 instances running Amazon Linux 2023, security groups and network ACLs for traffic control, IAM roles with least-privilege policies, S3 with encryption and versioning, VPC endpoints for AWS service access, and automated SSH configuration with ProxyJump. (AWS/Terraform) 
 - [AWS-Cloud-Projects](https://github.com/SteliosSpanos/cloud-engineering-AWS): A repo that shows my journey and improvement in cloud technologies. It includes every AWS project that i did along with full documentation for each. (AWS)
 - [Mini Content-Addressable-Storage](https://github.com/SteliosSpanos/mini-CAS): A content-addressable storage (CAS) system inspired by CVMFS. Mini-CAS stores files by their SHA-256 hash rather than their original path, enabling automatic deduplication, efficient storage management and verification with merkle trees. (Golang / Docker / SQLite)
 - [Pocket-Git](https://github.com/SteliosSpanos/pocket-git): Git-like version control system implementation built in C++03 as a preperation for contrinuting to CVMFS, demonstrating the core concepts and internal architecture of Git. (C++)
