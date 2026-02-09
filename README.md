@@ -8,9 +8,9 @@
 ## Projects
 - [AWS-Cloud-Projects](https://github.com/SteliosSpanos/cloud-engineering-AWS): A repo that shows my journey and improvement in cloud technologies. It includes every AWS project that i did along with full documentation for each. (AWS)
 - [Mini Content-Addressable-Storage](https://github.com/SteliosSpanos/mini-CAS): A content-addressable storage (CAS) system inspired by CVMFS. Mini-CAS stores files by their SHA-256 hash rather than their original path, enabling automatic deduplication, efficient storage management and verification with merkle trees. (Golang / Docker / SQLite)
+- [D-State-Debugger](https://github.com/SteliosSpanos/dstate-debugger): Linux debugging tool that detects and diagnoses processes stuck in D-state (uninterruptible sleep). Scans /proc to identify blocked processes, reads kernel stack traces, maps syscalls to names, and reports what they're blocked on. (C)
 - [Pocket-Git](https://github.com/SteliosSpanos/pocket-git): Git-like version control system implementation built in C++03 as a preperation for contrinuting to CVMFS, demonstrating the core concepts and internal architecture of Git. (C++)
 - [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
-- [Networking-Projects](https://github.com/SteliosSpanos/networking-projects): A collection of networking projects that contain programs and labs. (C/Python/Bash)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stylianos-spanos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stylspan19@gmail.com) 
