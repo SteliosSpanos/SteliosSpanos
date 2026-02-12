@@ -12,7 +12,7 @@
 - [Pocket-Git](https://github.com/SteliosSpanos/pocket-git): Git-like version control system implementation built in C++03 as a preperation for contrinuting to CVMFS, demonstrating the core concepts and internal architecture of Git. (C++)
 - [Flashcard-Assistant](https://github.com/SteliosSpanos/flashcard-assistant): CRUD API based flashcard assistant that generates personalized study content, tracks your learning streaks, and sends daily study challenges to Discord to keep you on track. (Python-FastAPI / Postgresql / Docker)
 
-# Contributed to
+## Contributed to
 - [CVMFS](https://github.com/cvmfs/cvmfs)
 
 ## Socials
