@@ -1,4 +1,4 @@
-# Hey there 👋 I'm Stelios, a CS Student with a passion for cloud, software engineering and security
+# Hey there I'm Stelios, a CS Student with a passion for cloud, software engineering and security
 
 ## About Me
 - Studying Computer Engineering & Informatics @ University of West Attica
@@ -6,7 +6,7 @@
 - Passionate about bridging theory and real-world applications
 
 ## Projects
-- [Secure Agent](https://github.com/SteliosSpanos/secure-agents): 
+- [Secure Agent](https://github.com/SteliosSpanos/secure-agents): A B2B SaaS platform providing autonomous AI agents for SMBs (law firms, medical clinics, accountants) with a focus on absolute data privacy and GDPR compliance. This system utilizes a Zero-Trust AWS architecture, ephemeral containerization, and kernel-level security to ensure sensitive client data remains private and secure.
 - [Homelab](https://github.com/SteliosSpanos/cloud-homelab): Secure, cost-optimized AWS environment built with Terraform. The architecture uses a bastion host (jump box) for SSH access, a NAT instance instead of NAT Gateway for cost savings, defense-in-depth security with Security Groups and NACLs, and centralized log collection via CloudWatch Logs. It also includes private S3 storage accessed via a VPC Gateway Endpoint.
 - [Mini Content-Addressable-Storage](https://github.com/SteliosSpanos/mini-CAS): A content-addressable storage (CAS) system inspired by CVMFS. Mini-CAS stores files by their SHA-256 hash rather than their original path, enabling automatic deduplication, efficient storage management and verification with merkle trees. (Golang / Docker / SQLite)
 - [D-State-Debugger](https://github.com/SteliosSpanos/dstate-debugger): Linux debugging tool that detects and diagnoses processes stuck in D-state (uninterruptible sleep). Scans /proc to identify blocked processes, reads kernel stack traces, maps syscalls to names, and reports what they're blocked on. (C)
